@@ -14,7 +14,10 @@ Use Postman or any other HTTP client to make requests to the provided endpoints.
 
 
 ## Base url 
-<p>base url =  '''' </p>
+<p>base url =  https://jealous-fawn-loafers.cyclic.app </p>
+## headers 
+<p>include a header name token and pass token in all requests except login and signup</p>
+<p>eg : headers : {token : userToken}</p>
 
 ## Endpoints
 
